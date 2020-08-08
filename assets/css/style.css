@@ -1,0 +1,24 @@
+header {
+    padding: 20px 35px;
+    background-image: url("../assets/images/0.jpg");
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+
+header h1 {
+    font-weight: bold;
+    margin: 0;
+    font-size: 36px;
+    color: #fce138;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  }
+
+  .hero {
+    background-image: url("../assets/images/0.jpg");
+    background-size: cover;
+    background-position: center;
+  }
