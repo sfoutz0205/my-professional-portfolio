@@ -130,7 +130,7 @@ header nav ul li a {
 .projects-grid-item.feature {
     grid-column: 1 / 5;
     grid-row: 1 / 5;
-    background-image: url("../images/Recipe\ Roundup.jpg");
+    background-image: url("../images/holiday\ planner.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -162,7 +162,7 @@ header nav ul li a {
 .projects-grid-item.four {
     grid-column: 3 / 5;
     grid-row: 5 / 7;
-    background-image: url("../images//run-buddy\ .jpg");
+    background-image: url("../images/Recipe\ Roundup.jpg");
     background-size: cover;
     background-position: center;
 }
